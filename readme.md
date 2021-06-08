@@ -156,6 +156,7 @@ sudo tail -f /var/log/squid/access.log
 ```
 
 ## References
-[Configure squid proxy on Ubuntu](https://www.tecmint.com/install-squid-in-ubuntu/)
+* [Configure squid proxy on Ubuntu](https://www.tecmint.com/install-squid-in-ubuntu/)
+* [Installing Squid on CentOS & check logs](https://elatov.github.io/2019/01/using-squid-to-proxy-ssl-sites/#installing-squid-on-centos)
 
 
