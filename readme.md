@@ -149,7 +149,10 @@ curl --location --request GET "https://kv1.vault.azure.net/secrets/abhi/xxxx?api
 
 View the logs in the Squid proxy server
 ```bash
+# login to the proxy server & run below command
 sudo tail -f /var/log/squid/access.log
+# it will show logs as shown below
+1623194041.721    503 10.1.0.4 TCP_TUNNEL/200 6559 CONNECT kv-sep-proxy.vault.azure.net:443 - HIER_DIRECT/20.38.149.197 -
 ```
 
 ## References
